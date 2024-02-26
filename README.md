@@ -1,0 +1,14 @@
+# missi_phonenonab_cn-user 13 TKQ1.221114.001 V14.0.2.0.TJJCNXM release-keys
+- manufacturer: xiaomi
+- platform: kona
+- codename: cas
+- flavor: missi_phonenonab_cn-user
+- release: 13
+- id: TKQ1.221114.001
+- incremental: V14.0.2.0.TJJCNXM
+- tags: release-keys
+- fingerprint: Xiaomi/cas/cas:13/RKQ1.211001.001/V14.0.2.0.TJJCNXM:user/release-keys
+- is_ab: false
+- brand: Xiaomi
+- branch: missi_phonenonab_cn-user-13-TKQ1.221114.001-V14.0.2.0.TJJCNXM-release-keys
+- repo: xiaomi_cas_dump
