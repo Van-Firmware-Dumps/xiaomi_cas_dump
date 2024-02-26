@@ -1,0 +1,46 @@
+{
+    "title": "更多系统壁纸",
+    "titleResId": "wallpaper_group_more_system_wallpaper_title",
+    "cardType": 1,
+    "count": 5,
+    "slideCount": 5,
+    "conflictWithSuperWallpaper":true,
+    "mixed":true,
+    "randomOrder": false,
+    "wallpapers": [{
+        "thumbPath": "./SystemWallpaper01.jpg",
+        "originPath": "./SystemWallpaper01.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./Jupiter.webp",
+        "originPath": "./Jupiter.mp4",
+        "type": "videowallpaper"
+	},{
+        "thumbPath": "./red_flower.webp",
+        "originPath": "",
+        "type": "videowallpaper",
+        "previewPath": "https://thm.w.xk.miui.com/7bbbbdd9f646ef64130a7be082db896a",
+        "downloadPath": "https://f17.market.mi-img.com/download/ThemeMarket/0e40f45d56ebe4c16291ced105779afe5a0bedbfb",
+        "fileSizeInKB": "19984916",
+        "productUuid": "a5827933-d0d5-4140-ae15-33b1b9fd4655",
+        "onlineId": "d1eef8fa-fb3d-4134-ad54-e8573121df46"
+	}, {
+        "thumbPath": "./blue_flower.webp",
+        "originPath": "",
+        "type": "videowallpaper",
+        "previewPath": "https://thm.w.xk.miui.com/a03d8c9959d81b17508d90448faf9e3b",
+        "downloadPath": "https://f17.market.mi-img.com/download/ThemeMarket/0899c5710dc4e8847dbc81ff8a53a976ac94189a9",
+        "fileSizeInKB": "20129553",
+        "productUuid": "2c1fb464-4d3c-4af7-9256-9f2cab2b9dee",
+        "onlineId": "4355ad77-9fec-40dc-931a-c759567fbb12"
+	}, {
+        "thumbPath": "./gold_flower.webp",
+        "originPath": "",
+        "type": "videowallpaper",
+        "previewPath": "https://thm.w.xk.miui.com/c8b8f71f110dd887f31115a3c72e953e",
+        "downloadPath": "https://f17.market.mi-img.com/download/ThemeMarket/0eb9b4fb45d0946e6e24bee9452ba40f892436d1d",
+        "fileSizeInKB": "22652980",
+        "productUuid": "b859f18b-8fad-4344-92f5-6981e87531d8",
+        "onlineId": "88d79528-df6d-4e27-957f-0ee5759117d2"
+	}]
+}
